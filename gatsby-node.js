@@ -4,7 +4,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
 
-  const blogPost = path.resolve(`./src/templates/blog-post.js`)
+  const staticPagetempl = path.resolve(`./src/templates/static-page.js`)
   return graphql(
     `
       {
@@ -30,20 +30,15 @@ exports.createPages = ({ graphql, actions }) => {
       throw result.errors
     }
 
-    // Create blog posts pages.
-    const posts = result.data.allMarkdownRemark.edges
+    // Create static responsive pages.
+    const pages = result.data.allMarkdownRemark.edges
 
-    posts.forEach((post, index) => {
-      const previous = index === posts.length - 1 ? null : posts[index + 1].node
-      const next = index === 0 ? null : posts[index - 1].node
-
+    pages.forEach((page, index) => {
       createPage({
-        path: post.node.fields.slug,
-        component: blogPost,
+        path: page.node.fields.slug,
+        component: staticPagetempl,
         context: {
-          slug: post.node.fields.slug,
-          previous,
-          next,
+          slug: page.node.fields.slug,
         },
       })
     })

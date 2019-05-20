@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: "/gatsbyTest",
   siteMetadata: {
     title: `JR static page`,
-    author: `Sanjeev`,
-    description: `A starter landing demonstrating what Gatsby can do.`,
+    author: `JG`,
+    description: `jwr.`,
     siteUrl: `https://www.google.com/`,
     social: {
       twitter: `sanjeevandindia`,
