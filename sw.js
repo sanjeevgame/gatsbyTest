@@ -26,29 +26,32 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-ef2f046506c78543632e.js"
+    "url": "webpack-runtime-7835bb605ebb94dc66c7.js"
   },
   {
-    "url": "styles.abc1448adb60250ce989.css"
+    "url": "styles.326cad1deef7e5452480.css"
   },
   {
-    "url": "styles-a83ab2de3146daf8297f.js"
+    "url": "styles-3a336d948404287088d7.js"
   },
   {
-    "url": "app-6b497e043214c9d6fe1f.js"
+    "url": "app-33abff026bb9d40b801e.js"
   },
   {
-    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-3c6d8da1c5b68ed6b359.js"
+    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-b2acb4db879a2ec7e5d4.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "27c15e588f097ecf081d77be03acf062"
+    "revision": "c37919623fdb114bfe0243472dc8c032"
   },
   {
-    "url": "component---src-pages-404-js-6c03a55d5c5bd4e137a0.js"
+    "url": "component---src-pages-404-js-93895caf2e79eb99a2e8.js"
   },
   {
-    "url": "0-28d581f8c8b6364c4ae1.js"
+    "url": "1-ec90ace31e0ae07b9313.js"
+  },
+  {
+    "url": "0-7b01305d6cfad8d38961.js"
   },
   {
     "url": "static/d/745/path---404-html-516-62a-aYvePxX4PgrUL2ONDdaX4Elylc.json"
@@ -79,7 +82,7 @@ const navigationRoute = new workbox.routing.NavigationRoute(({ event }) => {
   return idbKeyval.get(WHITELIST_KEY).then((customWhitelist = []) => {
     // Respond with the offline shell if we match the custom whitelist
     if (customWhitelist.includes(pathname)) {
-      const offlineShell = `/gatsbyTest/offline-plugin-app-shell-fallback/index.html`
+      const offlineShell = `/gatsbydemo/offline-plugin-app-shell-fallback/index.html`
       const cacheName = workbox.core.cacheNames.precache
 
       return caches.match(offlineShell, { cacheName }).then(cachedResponse => {
@@ -151,7 +154,7 @@ const messageApi = {
 
     pathnames = pathnames.map(({ pathname, includesPrefix }) => {
       if (!includesPrefix) {
-        return `/gatsbyTest${pathname}`
+        return `/gatsbydemo${pathname}`
       } else {
         return pathname
       }
