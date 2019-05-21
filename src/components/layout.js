@@ -1,5 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
+import Footer from "./footer"
+import Header from "./header"
+import SubMenu from "./sub-menu"
 //import { rhythm, scale } from "../utils/typography"
 
 class Layout extends React.Component {
@@ -15,57 +18,12 @@ class Layout extends React.Component {
           //padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
-        <header>JWR Static Pages</header>
+        <Header />
         <section>
-          <nav>
-            <ul>
-              <li>
-                <Link
-                  style={{
-                    boxShadow: `none`,
-                    textDecoration: `none`,
-                    color: `inherit`,
-                  }}
-                  to={`/page-1`}
-                >
-                  <a>Page 1</a>
-                </Link>
-              </li>
-              <li>
-                <Link
-                  style={{
-                    boxShadow: `none`,
-                    textDecoration: `none`,
-                    color: `inherit`,
-                  }}
-                  to={`/page-2`}
-                >
-                  <a>Page 2</a>
-                </Link>
-              </li>
-              <li>
-                <Link
-                  style={{
-                    boxShadow: `none`,
-                    textDecoration: `none`,
-                    color: `inherit`,
-                  }}
-                  to={`/page-3`}
-                >
-                  <a>Page 3</a>
-                </Link>
-              </li>
-            </ul>
-          </nav>
-
+          <SubMenu />
           <article>{children}</article>
         </section>
-
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+        <Footer />
       </div>
     )
   }
