@@ -1,6 +1,6 @@
 ---
-title: Page 1
-date: "2015-05-01T22:12:03.284Z"
+title: Rummy Wiki
+date: "2019-05-01T22:12:03.284Z"
 ---
 
 <div id="container" class="new-design-cont clearfix">
@@ -9,6 +9,15 @@ date: "2015-05-01T22:12:03.284Z"
 
 ![Rummy wiki](./Rummy-Wiki.jpg)
 
+</div>
+<div class="breadcrumb-bar">
+   <div class="breadcrumb-bar-sub" id="breadcrumbBar">
+      <div><a href="https://www.jungleerummy.com/rummy-wiki">
+         Rummy Wiki
+         </a>
+      </div>
+      <div id="breadcrumb_cta"><span class="breadcrum_cta_button breadcrum_cta1" onclick="window.location = &#39;client/lobby&#39;" id="play_now_cta_bc">Play Now</span></div>
+   </div>
 </div>
 
 <div class="wrapper">
