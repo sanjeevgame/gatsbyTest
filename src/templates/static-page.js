@@ -17,21 +17,6 @@ class PageTemplate extends React.Component {
           description={page.frontmatter.description || page.excerpt}
         />
         <div dangerouslySetInnerHTML={{ __html: page.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
-
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        />
       </Layout>
     )
   }

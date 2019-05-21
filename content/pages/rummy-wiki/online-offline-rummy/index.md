@@ -13,13 +13,27 @@ date: "2015-05-06T23:46:37.121Z"
 
 <div class="breadcrumb-bar">
 
-<div class="breadcrumb-bar-sub" id="breadcrumbBar">
+<div id="breadcrumbBar" class="breadcrumb-bar-sub">
 
-<div>[Rummy Wiki](https://www.jungleerummy.com/rummy-wiki)</div>
+<div>
 
-<div>[Online vs Offline rummy](https://www.jungleerummy.com/rummy-wiki/online-vs-offline-rummy)</div>
+[Rummy Wiki](https://www.jungleerummy.com/rummy-wiki)
 
-<div id="breadcrumb_cta"><span class="breadcrum_cta_button breadcrum_cta1" onclick="window.location = 'client/lobby'" id="play_now_cta_bc">Play Now</span></div>
+</div>
+
+<div>
+
+[Online vs Offline
+rummy](https://www.jungleerummy.com/rummy-wiki/online-vs-offline-rummy)
+
+</div>
+
+<div id="breadcrumb_cta">
+
+<span id="play_now_cta_bc" class="breadcrum_cta_button breadcrum_cta1" onclick="window.location = &#39;client/lobby&#39;">Play
+Now</span>
+
+</div>
 
 </div>
 

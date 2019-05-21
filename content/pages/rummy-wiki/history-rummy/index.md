@@ -13,17 +13,17 @@ description: This is a custom description for SEO and Open Graph purposes, rathe
 </div>
 
 <div class="breadcrumb-bar">
-
-<div class="breadcrumb-bar-sub" id="breadcrumbBar">
-
-<div>[Rummy Wiki](https://www.jungleerummy.com/rummy-wiki)</div>
-
-<div>[History of rummy](https://www.jungleerummy.com/rummy-wiki/history-of-rummy)</div>
-
-<div id="breadcrumb_cta"><span class="breadcrum_cta_button breadcrum_cta1" onclick="window.location = 'client/lobby'" id="play_now_cta_bc">Play Now</span></div>
-
-</div>
-
+   <div class="breadcrumb-bar-sub" id="breadcrumbBar">
+      <div><a href="https://www.jungleerummy.com/rummy-wiki">
+         Rummy Wiki
+         </a>
+      </div>
+      <div><a href="https://www.jungleerummy.com/rummy-wiki/history-of-rummy">
+         History of rummy
+         </a>
+      </div>
+      <div id="breadcrumb_cta"><span class="breadcrum_cta_button breadcrum_cta1" onclick="window.location = &#39;client/lobby&#39;" id="play_now_cta_bc">Play Now</span></div>
+   </div>
 </div>
 
 <div class="wrapper">

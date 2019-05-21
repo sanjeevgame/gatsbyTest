@@ -12,7 +12,7 @@ class JWRIndex extends React.Component {
     const pages = data.allMarkdownRemark.edges
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location} title={siteTitle} isIndex="true">
         <SEO
           title="All pages "
           keywords={[`jwr`, `gatsby`, `javascript`, `react`]}
