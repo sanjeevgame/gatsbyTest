@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/gatsbytest",
+  pathPrefix: "/gatsbyTest",
   siteMetadata: {
     title: `JR static page`,
     author: `JG`,
@@ -22,6 +22,13 @@ module.exports = {
       options: {
         path: `${__dirname}/content/assets`,
         name: `assets`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/data`,
+        name: `json`,
       },
     },
     {
@@ -48,6 +55,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-transformer-json`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
