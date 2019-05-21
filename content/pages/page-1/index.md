@@ -5,7 +5,11 @@ date: "2015-05-01T22:12:03.284Z"
 
 <div id="container" class="new-design-cont clearfix">
 
-<div class="static-banner-hlder" style="background:#450e07 !important;">![Rummy wiki](./Rummy-Wiki.jpg)</div>
+<div class="static-banner-hlder" style="background:#450e07 !important;">
+
+![Rummy wiki](./Rummy-Wiki.jpg)
+
+</div>
 
 <div class="wrapper">
 

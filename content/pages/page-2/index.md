@@ -5,7 +5,11 @@ date: "2015-05-06T23:46:37.121Z"
 
 <div id="container" class="new-design-cont clearfix">
 
-<div class="static-banner-hlder" style="background:#450e07 !important;">![Online Rummy Vs Offline Rummy](./Online-Rummy-Vs-Offline-Rummy-1.jpg)</div>
+<div class="static-banner-hlder" style="background:#450e07 !important;">
+
+![Online Rummy Vs Offline Rummy](./Online-Rummy-Vs-Offline-Rummy-1.jpg)
+
+</div>
 
 <div class="breadcrumb-bar">
 

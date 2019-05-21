@@ -6,7 +6,11 @@ description: This is a custom description for SEO and Open Graph purposes, rathe
 
 <div id="container" class="new-design-cont clearfix">
 
-<div class="static-banner-hlder" style="background:#450e07 !important;">![History of rummy](./History-of-Rummy.jpg)</div>
+<div class="static-banner-hlder" style="background:#450e07 !important;">
+
+![History of rummy](./History-of-Rummy.jpg)
+
+</div>
 
 <div class="breadcrumb-bar">
 
