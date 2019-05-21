@@ -3,26 +3,25 @@ import { Link } from "gatsby"
 import Footer from "./footer"
 import Header from "./header"
 import SubMenu from "./sub-menu"
-//import { rhythm, scale } from "../utils/typography"
 
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
 
     return (
-      <div
-        style={{
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          //  maxWidth: rhythm(24),
-          //padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
+      <div>
         <Header />
-        <section>
-          <SubMenu />
-          <article>{children}</article>
-        </section>
+        <static-page>
+          <div class="new-design">
+            <div class="static-page-container clearfix">
+              <SubMenu />
+              <div class="static-page-content">
+                <div id="newDesign" />
+                {children}
+              </div>
+            </div>
+          </div>
+        </static-page>
         <Footer />
       </div>
     )

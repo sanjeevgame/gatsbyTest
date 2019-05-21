@@ -4,105 +4,69 @@ date: "2015-05-28T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+<div id="container" class="new-design-cont clearfix">
 
-## On deer horse aboard tritely yikes and much
+<div class="static-banner-hlder" style="background:#450e07 !important;">![History of rummy](./History-of-Rummy.jpg)</div>
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+<div class="breadcrumb-bar">
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+<div class="breadcrumb-bar-sub" id="breadcrumbBar">
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+<div>[Rummy Wiki](https://www.jungleerummy.com/rummy-wiki)</div>
 
-### Overlaid the jeepers uselessly much excluding
+<div>[History of rummy](https://www.jungleerummy.com/rummy-wiki/history-of-rummy)</div>
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+<div id="breadcrumb_cta"><span class="breadcrum_cta_button breadcrum_cta1" onclick="window.location = 'client/lobby'" id="play_now_cta_bc">Play Now</span></div>
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+</div>
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+</div>
 
-### According a funnily until pre-set or arrogant well cheerful
+<div class="wrapper">
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+<div class="page-text clearfix">
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+<div id="poker_txt_bg" style="min-height: 900px;">
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rethoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+# History of Rummy
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+<div class="mobile-rummy-cont cont-section">
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+The whole world loves to play the exciting game of [online rummy](https://www.jungleerummy.com/). However, if you ask about the origin of the game, it is not an easy question. There are many theories associating the origin of the game with different places around the world but the exact place of origin is very difficult to ascertain. Some of the popular and decisive theories about the history of rummy are as follows:
 
-#### Silent delightfully including because before one up barring chameleon
+<div class="tabcontentarea">
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+<div class="tabcontent" id="tab2">
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+## The Spanish and American Connection
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+Many theorists connect the origin of the game to Spanish communities and believe that early Spanish communities who moved to the West developed it. Such theories are based on the striking resemblance of rummy to the Spanish game of Conquian. Some other theorists say that it originated in America and later it reached Mexico, where it was called Conquian.
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+## The Poker Theory
 
-###### Slapped cozy a that lightheartedly and far
+Some theorists believe that French settlers in the West developed rummy from poker. The propagators of this theory say that rummy and poker share similar concepts of forming sequences and groups. According to [<u>John Scarne</u>](http://en.wikipedia.org/wiki/John_Scarne), a famous author on card games, rummy was derived from the card game called Whiskey Poker and was later known as Rum Poker, which was later renamed Rum, and finally called Rummy.
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+## The Asian Connection
+
+The history of rummy could be traced back to the first game of draw and discard pattern: the Chinese card game of Mah Jong. This game was first developed during the Tang dynasty in China, over 1,000 years ago. Other theories link it to the Japanese game of Hanafuda, which was developed by the Portuguese who travelled to Japan. Hanafuda became a popular gambling game with different card designs in the mid-17th century.
+
+There are many other theories that link it to other games and countries. It is difficult to arrive at a conclusion about the definite origin and history of rummy. Whatever the origin could have been, what makes the game special is that it is widely played all over the world across boundaries and unites people with an array of variations.
+
+Play online rummy on [JungleeRummy](https://www.jungleerummy.com/) and find out which of the features of online rummy connect well to the above theories about the history of the game.
+
+If you are interested in learning more about online rummy, click on the following links:  
+[Rummy FAQs](https://www.jungleerummy.com/rummy-faq) | [Cash Rummy](https://www.jungleerummy.com/rummy-variations/cash-rummy) | [Free Rummy](https://www.jungleerummy.com/rummy-variations/free-rummy) | [Variations of Rummy](https://www.jungleerummy.com/rummy-variations)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

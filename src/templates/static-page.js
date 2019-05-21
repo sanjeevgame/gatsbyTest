@@ -16,17 +16,6 @@ class PageTemplate extends React.Component {
           title={page.frontmatter.title}
           description={page.frontmatter.description || page.excerpt}
         />
-        <h1>{page.frontmatter.title}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: `block`,
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-1),
-          }}
-        >
-          {page.frontmatter.date}
-        </p>
         <div dangerouslySetInnerHTML={{ __html: page.html }} />
         <hr
           style={{
