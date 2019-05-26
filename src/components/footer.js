@@ -10,14 +10,26 @@ export default () => (
             <div class="follow-us-txt footer-link-head">FOLLOW US ON</div>
             <div class="follow-us footer-col-content">
               <div class="social-links-container">
-                <a href="https://www.facebook.com/JungleeRummy" target="_blank">
-                  <div id="fb-img" />
+                <a
+                  aria-label="fb"
+                  href="https://www.facebook.com/JungleeRummy"
+                  target="_blank"
+                >
+                  <div class="fb-img" />
                 </a>
-                <a href="https://twitter.com/Jungleerummy" target="_blank">
-                  <div id="tweeter-img" />
+                <a
+                  aria-label="Twitter"
+                  href="https://twitter.com/Jungleerummy"
+                  target="_blank"
+                >
+                  <div class="tweeter-img" />
                 </a>
-                <a href="https://www.jungleerummy.com/blog" target="_blank">
-                  <div id="insta-img" />
+                <a
+                  aria-label="blog"
+                  href="https://www.jungleerummy.com/blog"
+                  target="_blank"
+                >
+                  <div class="insta-img" />
                 </a>
               </div>
             </div>
@@ -31,6 +43,7 @@ export default () => (
                 <div class="security-img security-img4" />
                 <div class="security-img security-img5" />
                 <a
+                  aria-label="security"
                   class="security-img security-img7"
                   href="http://trf.org.in/"
                   target="_blank"
@@ -147,20 +160,33 @@ export default () => (
             <div class="follow-us-txt footer-link-head">FOLLOW US ON</div>
             <div class="follow-us footer-col-content">
               <div class="social-links-container">
-                <a href="https://www.facebook.com/JungleeRummy" target="_blank">
-                  <div id="fb-img" />
-                </a>
-                <a href="https://twitter.com/Jungleerummy" target="_blank">
-                  <div id="tweeter-img" />
+                <a
+                  aria-label="fb"
+                  href="https://www.facebook.com/JungleeRummy"
+                  target="_blank"
+                >
+                  <div class="fb-img" />
                 </a>
                 <a
+                  aria-label="Twitter"
+                  href="https://twitter.com/Jungleerummy"
+                  target="_blank"
+                >
+                  <div class="tweeter-img" />
+                </a>
+                <a
+                  aria-label="gplus"
                   href="https://plus.google.com/u/0/+Jungleerummy/posts"
                   target="_blank"
                 >
                   <div id="gplus-img" />
                 </a>
-                <a href="https://www.jungleerummy.com/blog" target="_blank">
-                  <div id="insta-img" />
+                <a
+                  aria-label="blog"
+                  href="https://www.jungleerummy.com/blog"
+                  target="_blank"
+                >
+                  <div class="insta-img" />
                 </a>
               </div>
             </div>
@@ -176,6 +202,7 @@ export default () => (
                 <div class="security-img security-img5" />
                 <div class="security-img security-img6" />
                 <a
+                  aria-label="security"
                   class="security-img security-img7"
                   href="http://trf.org.in/"
                   target="_blank"
