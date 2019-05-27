@@ -489,7 +489,9 @@ export default () => (
                 {" "}
                 <Link
                   to={data.allSidebarItemsJson.edges[0].node.link}
-                  className="menu_header active"
+                  className="menu_header"
+                  partiallyActive={true}
+                  activeClassName="active"
                 >
                   <span class="white-arrow" />
                   <span class="black-arrow" />{" "}
@@ -498,13 +500,19 @@ export default () => (
                 </Link>
                 <ul class="sub-menu open">
                   <li>
-                    <Link to={data.allSidebarItemsJson.edges[1].node.link}>
+                    <Link
+                      to={data.allSidebarItemsJson.edges[1].node.link}
+                      activeClassName="selected"
+                    >
                       <span class="round-arrow" />{" "}
                       {data.allSidebarItemsJson.edges[1].node.label}
                     </Link>
                   </li>
                   <li>
-                    <Link to={data.allSidebarItemsJson.edges[2].node.link}>
+                    <Link
+                      to={data.allSidebarItemsJson.edges[2].node.link}
+                      activeClassName="selected"
+                    >
                       <span class="round-arrow" />{" "}
                       {data.allSidebarItemsJson.edges[2].node.label}
                     </Link>
